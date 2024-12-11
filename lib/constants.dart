@@ -1,0 +1,1 @@
+const kImage= 'images/user.png';
